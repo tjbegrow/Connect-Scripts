@@ -7,6 +7,13 @@ var cookieArray = document.cookie.split(";");
         document.cookie = str[0] + "=; expires=Wed, 01 Jan 1969 00:00:01 GMT; path=/; domain=sendpro.pitneybowes.com;";
         document.cookie = str[0] + "=; expires=Wed, 01 Jan 1969 00:00:01 GMT; path=/; domain=.sendpro.pitneybowes.com;";
         document.cookie = str[0] + "=; expires=Wed, 01 Jan 1969 00:00:01 GMT; path=/api/foundation/v1/; domain=.sendpro.pitneybowes.com;";
+        document.cookie = str[0] + "=; expires=Wed, 01 Jan 1969 00:00:01 GMT; path=/; domain=.pitneybowes.com;";
+        document.cookie = str[0] + "=; expires=Wed, 01 Jan 1969 00:00:01 GMT; path=/; domain=.demo.horizon.pitneycloud.com;";
+        document.cookie = str[0] + "=; expires=Wed, 01 Jan 1969 00:00:01 GMT; path=/; domain=demo.horizon.pitneycloud.com;";
+        document.cookie = str[0] + "=; expires=Wed, 01 Jan 1969 00:00:01 GMT; path=/; domain=.horizon.pitneycloud.com;";
+        document.cookie = str[0] + "=; expires=Wed, 01 Jan 1969 00:00:01 GMT; path=/; domain=horizon.pitneycloud.com;";
+        document.cookie = str[0] + "=; expires=Wed, 01 Jan 1969 00:00:01 GMT; path=/; domain=.pitneycloud.com;";
+        document.cookie = str[0] + "=; expires=Wed, 01 Jan 1969 00:00:01 GMT; path=/; domain=pitneycloud.com;";
         document.cookie = str[0] + "=; expires=Wed, 01 Jan 1969 00:00:01 GMT; path=/;";
     }
 alert("Cookie values after = " + document.cookie); 
