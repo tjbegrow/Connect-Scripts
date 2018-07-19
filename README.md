@@ -1,1 +1,1 @@
-# This script is an project I started to clear cookies out of the Connect + shipping application. The history page is the one in question because of issues with redirects to the select a shipping carrier page.
+# This project was created to make trouble shooting on a Connect + easier to do. You will find scripts and commands to use in console.
